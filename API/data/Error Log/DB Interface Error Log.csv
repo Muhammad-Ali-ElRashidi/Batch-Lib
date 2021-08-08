@@ -1,0 +1,38 @@
+Date,Time,Code,Source,Message,
+
+07-July-2021,3:46:55 PM,-2147217900,NI_Database_API.lvlib:Conn Execute.vi->DB Interface.lvlib:DB Interface.vi->Copy of Untitled Library 1.lvlib:Init Module.vi<ERR>ADO Error: 0x80040E14
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 8.0(w) Driver][mysqld-5.6.48-log]Table 'product' already exists in NI_Database_API.lvlib:Conn Execute.vi->DB Interface.lvlib:DB Interface.vi->Copy of Untitled Library 1.lvlib:Init Module.vi,,
+-
+08-July-2021,10:29:29 AM,-2147217865,NI_Database_API.lvlib:Conn Execute.vi->DB Interface.lvlib:DB Interface.vi->DB Interface.lvlib:DB Create Columns.vi->Copy of Untitled Library 1.lvlib:Init Module.vi<ERR>ADO Error: 0x80040E37
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 8.0(w) Driver][mysqld-5.6.48-log]Table 'allmed_2.product_name' doesn't exist in NI_Database_API.lvlib:Conn Execute.vi->DB Interface.lvlib:DB Interface.vi->DB Interface.lvlib:DB Create Columns.vi->Copy of Untitled Library 1.lvlib:Init Module.vi,,
+-
+08-July-2021,10:30:50 AM,-2147217865,NI_Database_API.lvlib:Conn Execute.vi->DB Interface.lvlib:DB Interface.vi->DB Interface.lvlib:DB Create Columns.vi->Copy of Untitled Library 1.lvlib:Init Module.vi<ERR>ADO Error: 0x80040E37
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 8.0(w) Driver][mysqld-5.6.48-log]Table 'allmed_2.create table product_0' doesn't exist in NI_Database_API.lvlib:Conn Execute.vi->DB Interface.lvlib:DB Interface.vi->DB Interface.lvlib:DB Create Columns.vi->Copy of Untitled Library 1.lvlib:Init Module.vi,,
+-
+08-July-2021,10:30:59 AM,-2147217900,NI_Database_API.lvlib:Conn Execute.vi->DB Interface.lvlib:DB Interface.vi->Copy of Untitled Library 1.lvlib:Init Module.vi<ERR>ADO Error: 0x80040E14
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 8.0(w) Driver][mysqld-5.6.48-log]Table 'batch_table_0' already exists in NI_Database_API.lvlib:Conn Execute.vi->DB Interface.lvlib:DB Interface.vi->Copy of Untitled Library 1.lvlib:Init Module.vi,,
+-
+08-July-2021,10:31:01 AM,-2147467259,NI_Database_API.lvlib:Conn Execute.vi->DB Interface.lvlib:DB Interface.vi->Copy of Untitled Library 1.lvlib:Init Module.vi<ERR>ADO Error: 0x80004005
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 8.0(w) Driver][mysqld-5.6.48-log]A table must have at least 1 column in NI_Database_API.lvlib:Conn Execute.vi->DB Interface.lvlib:DB Interface.vi->Copy of Untitled Library 1.lvlib:Init Module.vi,,
+-
+08-July-2021,10:31:01 AM,-2147217865,NI_Database_API.lvlib:Conn Execute.vi->DB Interface.lvlib:DB Interface.vi->DB Interface.lvlib:DB Create Columns.vi->Copy of Untitled Library 1.lvlib:Init Module.vi<ERR>ADO Error: 0x80040E37
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 8.0(w) Driver][mysqld-5.6.48-log]Table 'allmed_2.create table product_0' doesn't exist in NI_Database_API.lvlib:Conn Execute.vi->DB Interface.lvlib:DB Interface.vi->DB Interface.lvlib:DB Create Columns.vi->Copy of Untitled Library 1.lvlib:Init Module.vi,,
+-
+08-July-2021,10:31:33 AM,-2147217900,NI_Database_API.lvlib:Conn Execute.vi->DB Interface.lvlib:DB Interface.vi->Copy of Untitled Library 1.lvlib:Init Module.vi<ERR>ADO Error: 0x80040E14
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 8.0(w) Driver][mysqld-5.6.48-log]Table 'batch_table_0' already exists in NI_Database_API.lvlib:Conn Execute.vi->DB Interface.lvlib:DB Interface.vi->Copy of Untitled Library 1.lvlib:Init Module.vi,,
+-
+08-July-2021,10:31:35 AM,-2147217865,NI_Database_API.lvlib:Conn Execute.vi->DB Interface.lvlib:DB Interface.vi->DB Interface.lvlib:DB Create Columns.vi->Copy of Untitled Library 1.lvlib:Init Module.vi<ERR>ADO Error: 0x80040E37
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 8.0(w) Driver][mysqld-5.6.48-log]Table 'allmed_2.create table product_0' doesn't exist in NI_Database_API.lvlib:Conn Execute.vi->DB Interface.lvlib:DB Interface.vi->DB Interface.lvlib:DB Create Columns.vi->Copy of Untitled Library 1.lvlib:Init Module.vi,,
+-
+08-July-2021,10:32:00 AM,-2147217865,NI_Database_API.lvlib:Conn Execute.vi->DB Interface.lvlib:DB Interface.vi->DB Interface.lvlib:DB Create Columns.vi->Copy of Untitled Library 1.lvlib:Init Module.vi<ERR>ADO Error: 0x80040E37
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 8.0(w) Driver][mysqld-5.6.48-log]Table 'allmed_2.create table product_0' doesn't exist in NI_Database_API.lvlib:Conn Execute.vi->DB Interface.lvlib:DB Interface.vi->DB Interface.lvlib:DB Create Columns.vi->Copy of Untitled Library 1.lvlib:Init Module.vi,,
+-
+08-July-2021,10:32:17 AM,-2147217865,NI_Database_API.lvlib:Conn Execute.vi->DB Interface.lvlib:DB Interface.vi->DB Interface.lvlib:DB Create Columns.vi->Copy of Untitled Library 1.lvlib:Init Module.vi<ERR>ADO Error: 0x80040E37
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 8.0(w) Driver][mysqld-5.6.48-log]Table 'allmed_2.create table product_0' doesn't exist in NI_Database_API.lvlib:Conn Execute.vi->DB Interface.lvlib:DB Interface.vi->DB Interface.lvlib:DB Create Columns.vi->Copy of Untitled Library 1.lvlib:Init Module.vi,,
+-
+08-July-2021,11:09:43 AM,-2147217900,NI_Database_API.lvlib:Conn Execute.vi->DB Interface.lvlib:DB Interface.vi->DB Interface.lvlib:DB Create Columns.vi->Copy of Untitled Library 1.lvlib:Init Module.vi<ERR>ADO Error: 0x80040E14
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 8.0(w) Driver][mysqld-5.6.48-log]Duplicate column name 'adsdas' in NI_Database_API.lvlib:Conn Execute.vi->DB Interface.lvlib:DB Interface.vi->DB Interface.lvlib:DB Create Columns.vi->Copy of Untitled Library 1.lvlib:Init Module.vi,,
+-
+08-July-2021,11:30:13 AM,-2147217900,NI_Database_API.lvlib:Conn Execute.vi->DB Interface.lvlib:DB Interface.vi->DB Interface.lvlib:DB Create Columns.vi->Copy of Untitled Library 1.lvlib:Init Module.vi<ERR>ADO Error: 0x80040E14
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 8.0(w) Driver][mysqld-5.6.48-log]Duplicate column name 'asddas' in NI_Database_API.lvlib:Conn Execute.vi->DB Interface.lvlib:DB Interface.vi->DB Interface.lvlib:DB Create Columns.vi->Copy of Untitled Library 1.lvlib:Init Module.vi,,
+-

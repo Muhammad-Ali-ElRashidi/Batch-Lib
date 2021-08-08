@@ -1,0 +1,4 @@
+Date,Time,Code,Source,Message,
+
+08-July-2021,5:43:27 PM,1,"NI_Database_API.lvlib:Conn getData.vi"<ERR>Object 0x90500000 is not valid.,,
+-
